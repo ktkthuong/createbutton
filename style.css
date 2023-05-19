@@ -1,0 +1,21 @@
+.btn {
+  width: 450px;
+  height: 95px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 100rem;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.btn--blue {
+  background-color: #2cccff;
+}
+.btn--darkBlue {
+  background-color: #699cfc;
+}
+.btn--green {
+  background-color: #20e3b2;
+}
